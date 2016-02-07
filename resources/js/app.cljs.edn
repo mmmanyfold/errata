@@ -1,0 +1,3 @@
+{:require  [errata.app]
+ :init-fns [errata.app/init]
+ :compiler-options {:asset-path "js/app.out"}}
