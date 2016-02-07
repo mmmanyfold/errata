@@ -1,4 +1,4 @@
 (ns errata.api)
 
-(defn version []
+(defn ^:export version []
       0.1)
